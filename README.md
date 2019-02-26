@@ -1,4 +1,4 @@
-# firstapp
+# FlutterSignInDemo
 
 A new Flutter project.
 
